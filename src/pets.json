@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "name": "Manchas",
+    "picture": "images/perro1.jpg",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "huellitas, delicias"
+  },
+  {
+    "id": 1,
+    "name": "Cafecito",
+    "picture": "images/perro2.jpg",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "huellitas, camargo"
+  },
+  {
+    "id": 2,
+    "name": "Blackito",
+    "picture": "images/perro3.jpg",
+    "age": 2,
+    "breed": "French Bulldog",
+    "location": "huellitas, juarez"
+  },
+  {
+    "id": 3,
+    "name": "Nube",
+    "picture": "images/nube.jpeg",
+    "age": 2,
+    "breed": "Americano de pelo duro",
+    "location": "Huellitas, Meoqui"
+  },
+  {
+    "id": 4,
+    "name": "Michi",
+    "picture": "images/michi.jpeg",
+    "age": 2,
+    "breed": "Abisinio",
+    "location": "Proteccion, Saucillo"
+  },
+  {
+    "id": 5,
+    "name": "Wiskas",
+    "picture": "images/wiskas.jpeg",
+    "age": 3,
+    "breed": "Asiático",
+    "location": "Huellitas, Casas Grandes"
+  }
+]
